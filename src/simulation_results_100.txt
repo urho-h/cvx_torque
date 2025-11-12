@@ -1,0 +1,7 @@
+Monte Carlo Simulation Results
+-------------------------------
+tau0 RMSE: 0.7063010908999587
+theta0 RMSE: 0.459131250069231
+motor RMSE: 0.0896391259726635
+prop RMSE: 0.22129749154460204
+prop_shaft RMSE: 0.24833101593527324
